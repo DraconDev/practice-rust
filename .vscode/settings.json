@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./projects/guessing_game/Cargo.toml",
+        "./projects/guessing_game/Cargo.toml"
+    ]
+}
